@@ -99,4 +99,4 @@ const Tours = () => {
     </section>
   );
 }
-export default Tours
+export default Tours;
