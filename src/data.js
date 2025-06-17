@@ -55,8 +55,7 @@ export const tours = [
     title: "Explore Hong Kong",
     info: "Discover the vibrant city life and heritage of Hong Kong.",
     location: "Hong Kong",
-    duration: 8,
-    cost: 5000,
+    duration: 8, 
   },
   {
     id: 4,
